@@ -1,0 +1,29 @@
+body{
+    display: grid;
+    width: auto;
+    height: auto;
+    font-family: 'Bebas Neue', cursive;
+}
+.header__top{
+    margin-top: 15px;
+}
+
+.btn{
+    text-decoration: none;
+    background-color: #343434;
+    color: aliceblue;
+    padding: 5px 10px;
+    margin-left: 1100px;
+}
+.header__line{
+    background-color: #343434;
+    height: 40px;
+    width: auto;
+    margin-top: 20px;
+    color: azure;
+}
+.header__line p{
+    font-size: 20px;
+    margin-left: 20px;
+    color: aliceblue;
+}
